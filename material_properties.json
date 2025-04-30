@@ -1,0 +1,182 @@
+{
+  "beef": {
+    "density": 1.06,
+    "hydrogen_ratio": 0.07
+  },
+  "pie": {
+    "density": 0.88,
+    "hydrogen_ratio": 0.06
+  },
+  "pudding": {
+    "density": 1.05,
+    "hydrogen_ratio": 0.07
+  },
+  "chicken": {
+    "density": 1.03,
+    "hydrogen_ratio": 0.07
+  },
+  "salad": {
+    "density": 0.3,
+    "hydrogen_ratio": 0.05
+  },
+  "soup": {
+    "density": 0.9,
+    "hydrogen_ratio": 0.06
+  },
+  "fruit": {
+    "density": 0.95,
+    "hydrogen_ratio": 0.06
+  },
+  "pork": {
+    "density": 1.05,
+    "hydrogen_ratio": 0.07
+  },
+  "potatoes": {
+    "density": 1.0,
+    "hydrogen_ratio": 0.06
+  },
+  "bread": {
+    "density": 0.33,
+    "hydrogen_ratio": 0.05
+  },
+  "pizza": {
+    "density": 0.58,
+    "hydrogen_ratio": 0.06
+  },
+  "rice": {
+    "density": 0.85,
+    "hydrogen_ratio": 0.06
+  },
+  "pasta": {
+    "density": 1.0,
+    "hydrogen_ratio": 0.06
+  },
+  "fish": {
+    "density": 1.03,
+    "hydrogen_ratio": 0.07
+  },
+  "vegetable": {
+    "density": 0.8,
+    "hydrogen_ratio": 0.06
+  },
+  "cakes": {
+    "density": 0.55,
+    "hydrogen_ratio": 0.06
+  },
+  "chocolate": {
+    "density": 1.3,
+    "hydrogen_ratio": 0.07
+  },
+  "unknown": {
+    "density": 1.0,
+    "hydrogen_ratio": 0.05
+  },
+  "plastic straw": {
+    "density": 0.91,
+    "hydrogen_ratio": 0.14
+  },
+  "clear plastic bottle": {
+    "density": 1.38,
+    "hydrogen_ratio": 0.14
+  },
+  "corrugated carton": {
+    "density": 0.69,
+    "hydrogen_ratio": 0.06
+  },
+  "crisp packet": {
+    "density": 0.92,
+    "hydrogen_ratio": 0.12
+  },
+  "disposable food container": {
+    "density": 0.92,
+    "hydrogen_ratio": 0.14
+  },
+  "disposable plastic cup": {
+    "density": 1.05,
+    "hydrogen_ratio": 0.14
+  },
+  "egg carton": {
+    "density": 0.5,
+    "hydrogen_ratio": 0.06
+  },
+  "foam cup": {
+    "density": 0.05,
+    "hydrogen_ratio": 0.12
+  },
+  "magazine paper": {
+    "density": 0.85,
+    "hydrogen_ratio": 0.06
+  },
+  "meal carton": {
+    "density": 0.8,
+    "hydrogen_ratio": 0.07
+  },
+  "other plastic bottle": {
+    "density": 1.38,
+    "hydrogen_ratio": 0.14
+  },
+  "other plastic wrapper": {
+    "density": 0.92,
+    "hydrogen_ratio": 0.12
+  },
+  "plastic bottle cap": {
+    "density": 0.95,
+    "hydrogen_ratio": 0.14
+  },
+  "plastic film": {
+    "density": 0.91,
+    "hydrogen_ratio": 0.13
+  },
+  "plastic glooves": {
+    "density": 0.94,
+    "hydrogen_ratio": 0.14
+  },
+  "plastic lid": {
+    "density": 1.0,
+    "hydrogen_ratio": 0.14
+  },
+  "plastic utensils": {
+    "density": 1.03,
+    "hydrogen_ratio": 0.14
+  },
+  "polypropylene bag": {
+    "density": 0.9,
+    "hydrogen_ratio": 0.14
+  },
+  "single-use carrier bag": {
+    "density": 0.92,
+    "hydrogen_ratio": 0.14
+  },
+  "styrofoam piece": {
+    "density": 0.05,
+    "hydrogen_ratio": 0.12
+  },
+  "glass bottle": {
+    "density": 2.5,
+    "hydrogen_ratio": 0.0
+  },
+  "aluminum can": {
+    "density": 2.7,
+    "hydrogen_ratio": 0.0
+  },
+  "steel can": {
+    "density": 7.8,
+    "hydrogen_ratio": 0.0
+  },
+  "wood piece": {
+    "density": 0.6,
+    "hydrogen_ratio": 0.06
+  },
+  "textile": {
+    "density": 0.4,
+    "hydrogen_ratio": 0.07
+  },
+  "rubber": {
+    "density": 1.1,
+    "hydrogen_ratio": 0.1
+  },
+  "default": {
+    "density": 1.0,
+    "hydrogen_ratio": 0.06
+  }
+}
