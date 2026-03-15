@@ -41,24 +41,13 @@ The system detects objects like bottles, cartons, and food waste, estimates thei
 2. Open the notebook or run the pipeline script to process the data.
 3. Check classification results in `visuals/classification_results/`.
 
-## Results Examples
+## Results Example
 
-### Example 1: Bottle Classification
+### Bottle Classification
 - **Input:** Image of a bottle  
 - **Output Result:** Classification mask, segmented bottle, volume & weight estimation  
-- ![Bottle Example](LINK_TO_BOTTLE_RESULT_IMAGE)
+- ![Bottle Example]([LINK_TO_BOTTLE_RESULT_IMAGE](https://github.com/Hager205/OrganicWasteWeightEstimation/blob/main/Results/Visuals/current_predictions/label_visualization.png))
 
-### Example 2: Carton Classification
-- **Input:** Image of a carton  
-- **Output Result:** Classification mask, segmented carton, volume & weight estimation  
-- ![Carton Example](LINK_TO_CARTON_RESULT_IMAGE)
-
-### Example 3: Food Waste Classification
-- **Input:** Image of food waste  
-- **Output Result:** Segmentation and weight estimation  
-- ![Food Waste Example](LINK_TO_FOOD_RESULT_IMAGE)
-
-> **Note:** Replace the `LINK_TO_...` with the actual GitHub URL of the uploaded images.
 
 ## Authors
-Hager Mohamed – Junior Data Scientist & Software Engineer
+Hager Mohamed – Data Scientist
