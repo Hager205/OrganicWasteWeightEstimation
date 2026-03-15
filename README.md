@@ -1,6 +1,8 @@
 # Smart Solutions for Green Hydrogen Production
 
-![Project Overview]([(https://github.com/Hager205/OrganicWasteWeightEstimation/blob/main/Results/Visuals/current_predictions/project_idea.png)])
+<div align="center">
+  <img src="./Results/Visuals/current_prediction/project_idea.png" alt="Waste Mangement" width="600px">
+</div>
 
 ## Project Overview
 This project focuses on classifying organic and non-organic waste using computer vision and deep learning. The goal is to accurately identify organic materials, which can then be utilized for sustainable green hydrogen production. By separating organic waste from non-organic, this system contributes to cleaner energy generation and effective waste management.
