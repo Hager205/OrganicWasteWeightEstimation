@@ -1,6 +1,6 @@
 # Smart Solutions for Green Hydrogen Production
 
-![Project Overview](LINK_TO_PROJECT_IMAGE)
+![Project Overview]([LINK_TO_PROJECT_IMAGE](https://github.com/Hager205/OrganicWasteWeightEstimation/blob/main/Results/Visuals/current_predictions/project_idea.png))
 
 ## Project Overview
 This project focuses on classifying organic and non-organic waste using computer vision and deep learning. The goal is to accurately identify organic materials, which can then be utilized for sustainable green hydrogen production. By separating organic waste from non-organic, this system contributes to cleaner energy generation and effective waste management.
@@ -17,24 +17,20 @@ The system detects objects like bottles, cartons, and food waste, estimates thei
 - JSON – Storing input material properties and classification results
 
 ## Project Structure
+
+- `Documentation Files/`  
+  - `GRADUATION PROJECT DOCUMENTATION.pdf` – The full project report and documentation  
+
+- `results/`  
+  - `visual_results/` – Images showing current predictions  
+  - `results_with_summary_info.json` – JSON file containing summary of project results  
+
 - `data/`  
   - `material_properties.json` – Input properties of waste materials  
-  - `results.json` – Model outputs and classification results  
 
-- `notebooks/`  
-  - `graduation_project.ipynb` – Full code and workflow  
-
-- `src/`  
-  - `pipeline.py` – Script to run the complete pipeline automatically  
-
-- `visuals/classification_results/`  
-  - Sample images showing classification outputs  
-
-- `presentation/`  
-  - `GraduationProject_Presentation.pptx` – Project slides  
-
-- `docs/`  
-  - `report.pdf` – Final documentation or report  
+- `Technical Segmentation Model/`  
+  - `Taco-Segmentation-Model.ipynb` – Notebook containing full code and workflow
+  - `pipeline.py` – Pipeline script to run the complete project workflow  
 
 - `requirements.txt` – Python libraries required to run the project
 
