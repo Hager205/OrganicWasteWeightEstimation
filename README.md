@@ -1,7 +1,7 @@
 # Smart Solutions for Green Hydrogen Production
 
 <div align="center">
-  <img src="./Results/Visuals/current_prediction/project_idea.png" alt="Waste Mangement" width="600px">
+  <img src="./Results/Visuals/current_predictions/project_idea.png" alt="Waste Mangement" width="600px">
 </div>
 
 ## Project Overview
