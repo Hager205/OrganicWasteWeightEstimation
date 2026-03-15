@@ -44,8 +44,8 @@ The system detects objects like bottles, cartons, and food waste, estimates thei
 ## Results Example
 
 ### Bottle Classification
-- **Input:** Image of a bottle  
-- **Output Result:** Classification mask, segmented bottle, volume & weight estimation  
+- **Input:** Image of bottles 
+- **Output Result:** Classification mask, segmented bottles 
 - ![Bottle Example](https://github.com/Hager205/OrganicWasteWeightEstimation/blob/main/Results/Visuals/current_predictions/label_visualization.png)
 
 
